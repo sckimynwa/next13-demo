@@ -95,4 +95,14 @@ export const demos: { name: string; items: Item[] }[] = [
       },
     ],
   },
+  {
+    name: 'Study',
+    items: [
+      {
+        name: 'Image Test',
+        slug: 'image-test',
+        description: 'Test the image component',
+      },
+    ],
+  },
 ];
