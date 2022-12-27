@@ -103,6 +103,11 @@ export const demos: { name: string; items: Item[] }[] = [
         slug: 'image-test',
         description: 'Test the image component',
       },
+      {
+        name: 'Font Test',
+        slug: 'font-test',
+        description: 'Test the font feature',
+      },
     ],
   },
 ];
